@@ -56,10 +56,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FC167EE1B55A14900AA6F43"
-            BuildableName = "Turbolinks.framework"
-            BlueprintName = "Turbolinks"
-            ReferencedContainer = "container:Turbolinks.xcodeproj">
+            BlueprintIdentifier = "1FC168131B55A16C00AA6F43"
+            BuildableName = "TurbolinksDemo.app"
+            BlueprintName = "TurbolinksDemo"
+            ReferencedContainer = "container:TurbolinksDemo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,15 +75,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "1FC167EE1B55A14900AA6F43"
-            BuildableName = "Turbolinks.framework"
-            BlueprintName = "Turbolinks"
-            ReferencedContainer = "container:Turbolinks.xcodeproj">
+            BlueprintIdentifier = "1FC168131B55A16C00AA6F43"
+            BuildableName = "TurbolinksDemo.app"
+            BlueprintName = "TurbolinksDemo"
+            ReferencedContainer = "container:TurbolinksDemo.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
